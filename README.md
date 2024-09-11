@@ -18,13 +18,13 @@
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/uehlingeric"
+  <a href="https://www.linkedin.com/in/uehlingeric" target="_blank"
     ><img
       src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
       style="height: 45px; width: 170px;"
   /></a>
-  <a href="mailto:uehlingeric@gmail.com"
+  <a href="mailto:uehlingeric@gmail.com" target="_blank"
     ><img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
@@ -85,7 +85,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/uehlingeric">
+  <a href="https://github.com/uehlingeric" target="_blank">
     <img
       height="160em"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=uehlingeric&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
@@ -101,6 +101,6 @@
 
 <footer>
   <p align="center">
-    <em>Feel free to connect with me on <a href="https://www.linkedin.com/in/uehlingeric">LinkedIn</a> or reach out via <a href="mailto:uehlingeric@gmail.com">email</a>!</em>
+    <em>Feel free to connect with me on <a href="https://www.linkedin.com/in/uehlingeric" target="_blank">LinkedIn</a> or reach out via <a href="mailto:uehlingeric@gmail.com" target="_blank">email</a>!</em>
   </p>
 </footer>
