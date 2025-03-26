@@ -13,7 +13,6 @@
 <p align="center">
   <em>
     I utilize statistics, data analysis, and machine learning in Python to solve real-world problems. 
-    Graduating with a dual degree in Computer Science and Economics from Virginia Tech in Spring 2025.
   </em>
 </p>
 
