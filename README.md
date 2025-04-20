@@ -1,10 +1,8 @@
 <header>
   <h1 align="center">
-    Eric Uehling
+    Eric Uehling - Data Scientist
   </h1>
 </header>
-
-<h3 align="center">Data Scientist</h3>
 
 <p align="center">
   <em>
