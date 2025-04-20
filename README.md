@@ -1,10 +1,6 @@
 <header>
   <h1 align="center">
     Eric Uehling
-    <img
-      src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-      width="35"
-    />
   </h1>
 </header>
 
@@ -13,23 +9,12 @@
 <p align="center">
   <em>
     I utilize statistics, data analysis, and machine learning in Python to solve real-world problems. 
-    Graduating with a dual degree in Computer Science and Economics from Virginia Tech in Spring 2025.
   </em>
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/uehlingeric" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-      style="height: 45px; width: 170px;"
-  /></a>
-  <a href="mailto:uehlingeric@gmail.com" target="_blank"
-    ><img
-      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Gmail"
-      style="height: 45px; width: 170px;"
-  /></a>
+  <a href="https://www.linkedin.com/in/uehlingeric" target="_blank">linkedin.com/in/uehlingeric</a> | 
+  <a href="mailto:uehlingeric@gmail.com" target="_blank">uehlingeric@gmail.com</a>
 </div>
 
 ---
@@ -38,47 +23,43 @@
 
 <table>
   <tr>
-    <td><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
+    <td><strong>Technical</strong></td>
+    <td>Python, SQL, JavaScript, Git, Docker, Kubernetes, MLOps, AWS, Azure, Pandas, Numpy, Scikit-Learn, Pytorch</td>
   </tr>
   <tr>
-    <td><strong>Libraries & Frameworks</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/BeautifulSoup-009639?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" />
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-      <img src="https://img.shields.io/badge/Playwright-3B2A5A?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    </td>
+    <td><strong>Machine Learning & AI</strong></td>
+    <td>Predictive Modeling, Boosting, LLM Integration, NLP, Clustering, Neural Networks</td>
   </tr>
   <tr>
-    <td><strong>Technologies</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Azure-0089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
-      <img src="https://img.shields.io/badge/NLP-blueviolet?style=for-the-badge&logo=nlp&logoColor=white" alt="NLP" />
-      <img src="https://img.shields.io/badge/OCR-40BFBF?style=for-the-badge&logo=ocr&logoColor=white" alt="OCR" />
-      <img src="https://img.shields.io/badge/GIS-0288D1?style=for-the-badge&logo=geography&logoColor=white" alt="GIS" />
-    </td>
+    <td><strong>Data Engineering</strong></td>
+    <td>ETL Pipelines, Spark, Databricks, Snowflake, Hadoop, Database Design, Cloud Deployment</td>
+  </tr>
+  <tr>
+    <td><strong>Data Analysis</strong></td>
+    <td>Data Visualization, Regression Analysis, Data Exploration, Statistical Analysis, Geocoding, OCR</td>
   </tr>
 </table>
+
+---
+
+### 🎓 Education
+
+**Virginia Polytechnic Institute and State University — Blacksburg, VA**<br>
+*August 2021 - May 2025*
+
+- Bachelor of Science, Computer Science, Option: Data-Centric Computing
+- Bachelor of Arts, Economics, Option: Managerial and Data Science
+  - Honors: [Omicron Delta Epsilon](https://www.omicrondeltaepsilon.org/) (International Honor Society in Economics)
+
+---
+
+### 📜 Certifications
+
+- **KNIME Data Science Professional** | [View Certificate](https://www.linkedin.com/learning/certificates/ddf6059c4b4acc63f7c4d265c86b70e5352600af6e70848b8d1e4a00f0dd7e50?u=90799586) | March 2025
+- **Weaviate Vector Databases Professional** | [View Certificate](https://www.linkedin.com/learning/certificates/0f017fc1872da251440564a767da84808ef02e30ee2fb3ed583f4f5a133dd6da?u=90799586) | March 2025
+- **Anaconda Python for Data Science Professional** | [View Certificate](https://www.linkedin.com/learning/certificates/4f793772d84e101772da3b9d18c07030b6cc7aac590ebdb5f60daa46301f43d3?u=90799586) | June 2024
+- **Microsoft & LinkedIn: Career Essentials in Data Analysis** | [View Certificate](https://www.linkedin.com/learning/certificates/0b7ca5c28084084194c6e8cd821574cd61eeb1c4505fb94d99f1fc9ea21edfc5?u=90799586) | June 2024
+- **Microsoft & LinkedIn: Career Essentials in Generative AI** | [View Certificate](https://www.linkedin.com/learning/certificates/656804fa74acc29a8698e8ccbf3394c5f35c45a96180313ceb3d6b847bf75fda?u=90799586) | June 2024
 
 ---
 
@@ -98,9 +79,3 @@
 </p>
 
 ---
-
-<footer>
-  <p align="center">
-    <em>Feel free to connect with me on <a href="https://www.linkedin.com/in/uehlingeric" target="_blank">LinkedIn</a> or reach out via <a href="mailto:uehlingeric@gmail.com" target="_blank">email</a>!</em>
-  </p>
-</footer>
