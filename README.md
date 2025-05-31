@@ -21,20 +21,28 @@
 
 <table>
   <tr>
-    <td><strong>Technical</strong></td>
-    <td>Python, SQL, JavaScript, Git, Docker, Kubernetes, MLOps, AWS, Azure, Pandas, Numpy, Scikit-Learn, Pytorch</td>
+    <td><strong>Core Programming & Tools</strong></td>
+    <td>Python, Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn, SQL, Git, REST API</td>
   </tr>
   <tr>
     <td><strong>Machine Learning & AI</strong></td>
-    <td>Predictive Modeling, Boosting, LLM Integration, NLP, Clustering, Neural Networks</td>
+    <td>Generative AI, MLOps, Natural Language Processing, Deep Learning, Computer Vision</td>
   </tr>
   <tr>
-    <td><strong>Data Engineering</strong></td>
-    <td>ETL Pipelines, Spark, Databricks, Snowflake, Hadoop, Database Design, Cloud Deployment</td>
+    <td><strong>Cloud Computing</strong></td>
+    <td>AWS SageMaker, AWS S3, AWS EC2, AWS Lambda, Azure, Docker, Kubernetes, CI/CD</td>
   </tr>
   <tr>
-    <td><strong>Data Analysis</strong></td>
-    <td>Data Visualization, Regression Analysis, Data Exploration, Statistical Analysis, Geocoding, OCR</td>
+    <td><strong>Database Management</strong></td>
+    <td>PostgreSQL, MongoDB, MySQL, Apache Spark, Apache Hadoop, Snowflake, ETL</td>
+  </tr>
+  <tr>
+    <td><strong>Analytics & Visualization</strong></td>
+    <td>Tableau, Power BI, Matplotlib, Statistical Analysis, Regression, Time-series</td>
+  </tr>
+  <tr>
+    <td><strong>Professional Skills</strong></td>
+    <td>Collaboration, Stakeholder Communication, Jira, Confluence, Agile Development, Scrum</td>
   </tr>
 </table>
 
