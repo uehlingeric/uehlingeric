@@ -9,12 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/uehlingeric"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:uehlingeric@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" alt="Email" /></a>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,aws,azure,gcp,docker,kubernetes,terraform,react,js,postgres,git&theme=dark" />
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,aws,azure,gcp,docker,kubernetes,terraform,react,js,postgres,git&theme=dark" />
+  <b>Let's connect</b> — I'm always open to interesting problems and collaborations.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/uehlingeric"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:uehlingeric@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
