@@ -5,17 +5,13 @@
 </p>
 
 <p align="center">
-  I utilize python and agentic AI to solve business problems.
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,aws,azure,gcp,docker,kubernetes,terraform,react,js,postgres,git&theme=dark" />
 </p>
 
 <br>
 
 <p align="center">
-  <b>Let's connect</b> — I'm always open to interesting problems and collaborations.
+  Feel free to reach out!
 </p>
 
 <p align="center">
