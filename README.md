@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/uehlingeric"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="mailto:uehlingeric@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/uehlingeric"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:uehlingeric@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="28" alt="Email" /></a>
 </p>
 
 <br>
