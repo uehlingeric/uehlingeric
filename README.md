@@ -15,5 +15,5 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,aws,azure,docker,kubernetes,terraform,react,js,postgres,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,aws,azure,gcp,docker,kubernetes,terraform,react,js,postgres,git&theme=dark" />
 </p>
