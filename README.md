@@ -1,12 +1,12 @@
 <header>
   <h1 align="center">
-    Eric Uehling - AI Agent Engineer
+    Eric Uehling - AI Solutions Architect
   </h1>
 </header>
 
 <p align="center">
   <em>
-    I build multi-agent orchestration systems and FedRAMP High-compliant infrastructure for federal environments.
+    I utilize python and agentic AI to solve business problems.
   </em>
 </p>
 
