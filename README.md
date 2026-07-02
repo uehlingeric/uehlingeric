@@ -1,19 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:18181B,50:1E3A8A,100:2563EB&text=Eric%20Uehling&fontSize=46&fontColor=FFFFFF&fontAlignY=32&desc=AI%20Solutions%20Architect%20%C2%B7%20Production%20LLM%20Systems%20for%20Federal%20Agencies&descSize=17&descAlignY=53&section=header" width="100%" alt="Eric Uehling — AI Solutions Architect" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0F172A,50:1E3A8A,100:1E40AF&text=Eric%20Uehling&fontSize=46&fontColor=FFFFFF&fontAlignY=32&desc=AI%20Solutions%20Architect%20%C2%B7%20Production%20LLM%20Systems%20for%20Federal%20Agencies&descSize=17&descAlignY=53&section=header" width="100%" alt="Eric Uehling — AI Solutions Architect · Production LLM Systems for Federal Agencies" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/uehlingeric"><img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="36" height="36" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:uehlingeric@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Email" width="36" height="36" /></a>
+  <img src="https://img.shields.io/badge/FedRAMP_Moderate-1E3A8A?style=for-the-badge" alt="FedRAMP Moderate" />
+  <img src="https://img.shields.io/badge/NIST_800--53-1E3A8A?style=for-the-badge" alt="NIST 800-53" />
+  <img src="https://img.shields.io/badge/AWS_GovCloud-1E3A8A?style=for-the-badge" alt="AWS GovCloud" />
+  <img src="https://img.shields.io/badge/Air--Gapped_Delivery-1E3A8A?style=for-the-badge" alt="Air-Gapped Delivery" />
 </p>
 
 <p align="center">
-  Agentic platforms · Hybrid RAG · AI governance (FedRAMP, NIST 800-53)<br>
-  AWS GovCloud · Azure Government · Air-gapped enclaves
+  Agentic platforms · Hybrid RAG · Multi-agent orchestration · AI governance
+  <br><br>
+  <sub>The production work ships behind government firewalls — the open-source slice lives here.</sub>
 </p>
 
-That work ships behind government firewalls — the open-source slice lives here.
+<h3 align="center">Open Source</h3>
 
-### Open Source
+<div align="center">
 
 | Project | Description |
 | :--- | :--- |
@@ -23,10 +25,20 @@ That work ships behind government firewalls — the open-source slice lives here
 | **[yt-pull](https://github.com/uehlingeric/yt-pull)** | Claude Code skill for YouTube transcript analysis |
 | **[slim-pro-max](https://github.com/uehlingeric/slim-pro-max)** | Token-efficient UI/UX design search skill for Claude Code |
 
-### Stack
+</div>
 
-<p>
+<h3 align="center">Stack</h3>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,aws,azure,gcp,docker,kubernetes,terraform,react,ts,postgres,git&theme=dark" alt="Python, FastAPI, PyTorch, AWS, Azure, GCP, Docker, Kubernetes, Terraform, React, TypeScript, PostgreSQL, Git" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:18181B,50:1E3A8A,100:2563EB&section=footer" width="100%" alt="" />
+<h3 align="center">Contact</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/uehlingeric"><img src="https://img.icons8.com/fluency/96/linkedin.png" alt="LinkedIn" width="36" height="36" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:uehlingeric@gmail.com"><img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Email" width="36" height="36" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:0F172A,50:1E3A8A,100:1E40AF&section=footer" width="100%" alt="" />
