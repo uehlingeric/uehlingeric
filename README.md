@@ -19,6 +19,7 @@
 
 | Project | Description |
 | :--- | :--- |
+| **[federal-llm-blueprint](https://github.com/uehlingeric/federal-llm-blueprint)** | Terraform reference architecture for LLM workloads in federal environments — no-egress VPC, NIST 800-53 mapping, live-proven full stack |
 | **[stitch-mcp](https://github.com/uehlingeric/stitch-mcp)** | MCP server for AI UI design generation via Google Stitch |
 | **[banana-mcp](https://github.com/uehlingeric/banana-mcp)** | MCP server for AI image generation via Google Gemini |
 | **[shadcn-mcp](https://github.com/uehlingeric/shadcn-mcp)** | MCP server for the shadcn/ui component registry |
