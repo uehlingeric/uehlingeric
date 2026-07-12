@@ -19,6 +19,7 @@
 
 | Project | Description |
 | :--- | :--- |
+| **[agentic-rag](https://github.com/uehlingeric/agentic-rag)** | Provider-agnostic agentic RAG reference system — planner/critic agent loop, hybrid retrieval, always-on guardrails, published LLM-as-judge benchmarks |
 | **[federal-llm-blueprint](https://github.com/uehlingeric/federal-llm-blueprint)** | Terraform reference architecture for LLM workloads in federal environments — no-egress VPC, NIST 800-53 mapping, live-proven full stack |
 | **[stitch-mcp](https://github.com/uehlingeric/stitch-mcp)** | MCP server for AI UI design generation via Google Stitch |
 | **[banana-mcp](https://github.com/uehlingeric/banana-mcp)** | MCP server for AI image generation via Google Gemini |
