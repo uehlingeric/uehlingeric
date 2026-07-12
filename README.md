@@ -24,7 +24,7 @@
 | **[banana-mcp](https://github.com/uehlingeric/banana-mcp)** | MCP server for AI image generation via Google Gemini |
 | **[shadcn-mcp](https://github.com/uehlingeric/shadcn-mcp)** | MCP server for the shadcn/ui component registry |
 | **[yt-pull](https://github.com/uehlingeric/yt-pull)** | Claude Code skill for YouTube transcript analysis |
-| **[slim-pro-max](https://github.com/uehlingeric/slim-pro-max)** | Token-efficient UI/UX design search skill for Claude Code |
+| **[omarchy-theme-gallery](https://github.com/uehlingeric/omarchy-theme-gallery)** | 25 AI-generated Omarchy desktop themes built by a Claude Code slash command |
 
 </div>
 
